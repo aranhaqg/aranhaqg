@@ -13,7 +13,7 @@
 ☕ &nbsp;In my free time, I love to go to coffee shops.\
 <!-- ## 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ## ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
-🎙️ &nbsp;I'm also a pt-BR Comedy IT podcaster from the DevsCansados Podcast [DevsCansados Podcast](https://www.devscansados.com.br).
+🎙️ &nbsp;I'm also a pt-BR Comedy IT podcaster from the [DevsCansados Podcast](https://www.devscansados.com.br).
 <br>
 <br>
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/>
