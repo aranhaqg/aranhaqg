@@ -6,16 +6,21 @@
 
 ### 👩‍💻 &nbsp;About Me
 
-🇧🇷 &nbsp;I'm a Brazilian software developer currently using Ruby on Rails to develop backend systems and web services.\
-🎓 &nbsp;I have a Bachelor’s degree in Computer Engineering from the Federal Institute of Ceará (Instituto Federal do Ceará - IFCE). \
-🚁 &nbsp;I have a Master in Engineering at Technological Institute of Aeronautics (Instituto Tecnológico da Aeronáutica - ITA).\
-🐁 &nbsp;I have two fancy rats as pets. They're the best pet ever! <3\
-☕ &nbsp;In my free time, I love to go to coffee shops, parks, do crochet and sing.\
+🇧🇷 &nbsp;I'm a Brazilian software developer currently using Ruby on Rails and Elixir to develop backend systems and web services.\
+🎓 &nbsp;I have a Bachelor’s degree in Computer Engineering from the IFCE (Instituto Federal do Ceará - Federal Institute of Ceará). \
+🚁 &nbsp;I have a Master in Engineering at ITA (Instituto Tecnológico da Aeronáutica - Technological Institute of Aeronautics).\
+
+🐁 &nbsp;I had seven fancy rats as pets in the past. They had a good life and were the best pets ever! <3\
+🐕‍🦺 &nbsp;I have a service dog that aids me when I'm sensorial overwhelmed. Her name is Margarete because of [Margareth Hamilton](https://en.wikipedia.org/wiki/Margaret_Hamilton_(software_engineer)).\
+☕ &nbsp;In my free time, I love to go to coffee shops, parks with Margarete, rock concerts and hangout with my weird friends.\
+
+🎙️ &nbsp;I'm a pt-BR Comedy IT podcaster from the [DevsCansados Podcast](https://www.devscansados.com.br) and work as host and speaker in Tech Events.\
+<img alt="autismn" src="./assets/autism.png" width='20'/> &nbsp;I also was late diagnosed as autistic and gifted. Interesting right?
+
+<br>
+<br>
 <!-- ## 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 <!-- ## ✉️ &nbsp;You can shoot me an email at avsingh@umass.edu! I'll try to respond as soon as I can.\ -->
-🎙️ &nbsp;I'm also a pt-BR Comedy IT podcaster from the [DevsCansados Podcast](https://www.devscansados.com.br).
-<br>
-<br>
 <img alt="Girl coding" src="https://64.media.tumblr.com/c70e8fcdf61a132a873f99db163896a2/tumblr_o48ggtdpJA1sfmahro1_400.gif" align="right"/>
 
 ### 🛠 &nbsp;Tech Stack
