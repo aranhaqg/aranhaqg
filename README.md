@@ -73,10 +73,12 @@
 
 <p align="left">
 <!-- <a href="https://www.adityavsingh.com"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
-<a href="https://linkedin.com/in/priscilaaranha"><img src="https://img.shields.io/badge/-Priscila%20Aranha-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="https://linkedin.com/in/priscilaaranha">
+  <img src="https://img.shields.io/badge/priscilaaranha-0077B5?style=flat&logo=data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIHZpZXdCb3g9IjAgMCAzNCAzNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48cmVjdCB3aWR0aD0iMzQiIGhlaWdodD0iMzQiIGZpbGw9IiMwMDc3QjUiLz48dGV4dCB4PSI3IiB5PSIyNSIgZm9udC1zaXplPSIyMiIgZm9udC1mYW1pbHk9IkFyaWFsLCBIZWx2ZXRpY2EsIHNhbnMtc2VyaWYiIGZvbnQtd2VpZ2h0PSJib2xkIiBmaWxsPSJ3aGl0ZSI+aW48L3RleHQ+PC9zdmc+" />
+</a>
 <!-- <a href="mailto:avsingh@umass.edu"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a> -->
-<a href="https://instagram.com/aranhapi"><img src="https://img.shields.io/badge/-@aranhapi__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://instagram.com/aranhapi"><img src="https://img.shields.io/badge/-aranhapi-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <!-- <a href="https://facebook.com/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-1877F2?style=flat&logo=Facebook&logoColor=white"/></a> -->
 <!-- <a href="https://www.pinterest.ca/AVS1508"><img src="https://img.shields.io/badge/-@AVS1508-BD081C?style=flat&logo=Pinterest&logoColor=white"/></a> -->
-<a href="https://www.twitter.com/pihar"><img src="https://img.shields.io/badge/-@pihar-1769FF?style=flat&logo=Twitter&logoColor=white"/></a>
+<a href="https://www.threads.com/@aranhapi"><img src="https://img.shields.io/badge/-aranhapi-000000?style=flat&logo=threads&logoColor=white"/></a>
 </p>
